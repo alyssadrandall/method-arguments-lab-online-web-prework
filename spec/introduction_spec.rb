@@ -1,3 +1,8 @@
+# lib/introduction.rb
+ 
+def introduction
+end
+
 require "spec_helper"
 
 describe "#introduction" do 
